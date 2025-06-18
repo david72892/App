@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Fancode Events",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+    "m3uLink": "https://dtvlive.dtvhindi.news/dtv-live-event.html"
+  },
+  {
+    "title": "Jiotv+",
+    "imageUrl": "https://iili.io/FHEDWQa.png",
+    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/jstar.m3u"
+  },
+  {
+    "title": "Zee5",
+    "imageUrl": "https://akamaividz2.zee5.com/image/upload/frontend/branding/images/version-2/logo.png",
+    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/z5.m3u"
+  },
+  {
+    "title": "SonyLiv Events",
+    "imageUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",
+    "m3uLink": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+  },
+  {
+    "title": "Sonyliv",
+    "imageUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SonyLIV.m3u"
+  },
+  {
+    "title": "Sonyliv 2",
+    "imageUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SonyLIV_2.m3u"
+  },
+  {
+    "title": "Airtel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Airtel_logo-01.png",
+    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/artl.m3u"
+  },
+  {
+    "title": "Dish TV",
+    "imageUrl": "https://trendlyne-media-mumbai-new.s3.amazonaws.com/profilepicture/335_profilepicture.png",
+    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/dishtv.m3u"
+  },
+  {
+    "title": "Yupp TV",
+    "imageUrl": "https://bb-media.com/wp-content/uploads/2024/06/mNX-Fl-1cgwBzuF8m8YFcaF7GGNUQAl5gLtH7eJNrYSZHYnw1GIVgTXSQT5K7OEM_1aE.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/YuppTV.m3u"
+  },
+  {
+    "title": "Sunnxt",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Sun_NXT_logo_small.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SunNxt.m3u"
+  },
+  {
+    "title": "Pishow",
+    "imageUrl": "https://play-lh.googleusercontent.com/eOpDiVz0yhxE2UhJL8mTbh5HNnXykKWgbZSUWOl3af_uxzje0Nfr6nDiigRYTjhialcC",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Pishow.m3u"
+  },
+  {
+    "title": "Shoq",
+    "imageUrl": "https://play-lh.googleusercontent.com/kwKJ4mHrslg7-5Ki0JaYnl3M3VudZ_OWuKtLzTURbWW0WyyEsyAQtc2zcjyMirT-xw",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Shoq.m3u"
+  },
+  {
+    "title": "Sanskar Network",
+    "imageUrl": "https://app.sanskargroup.in/assets/website_assets/images/header-logo.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Sanskar_Network.m3u"
+  },
+  {
+    "title": "Samsung TV+",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiN0NEjVeGxTfqon_c0DNk-PwJ6rR_1HnxQ&s",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Samsung_TV_Plus.m3u"
+  },
+  {
+    "title": "PTC Play",
+    "imageUrl": "https://m.media-amazon.com/images/I/61VPWLgvfBL.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/PTC_Play.m3u"
+  },
+  {
+    "title": "MeWatch",
+    "imageUrl": "https://play-lh.googleusercontent.com/l9V4Pt3K83FOYgp-jixR6IWcXvnJ7LnlYrT8K5gtLguf6a_KAD4H6wFm8wxnrETzgg",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/MeWatch.m3u"
+  },
+  {
+    "title": "Epicon",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "ETV Win",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "DistroTV",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "DangalPlay",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "Shemaroo",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "Tamil Local Channel",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "TarangPlus",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "Timesplay",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "Aha VOD",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "Astrogo VOD",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "ErosNow VOD",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "HBO VOD",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  },
+  {
+    "title": "",
+    "imageUrl": "",
+    "m3uLink": ""
+  }
+]
