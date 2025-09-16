@@ -37,12 +37,12 @@
   {
     "title": "Yupp TV",
     "imageUrl": "https://bb-media.com/wp-content/uploads/2024/06/mNX-Fl-1cgwBzuF8m8YFcaF7GGNUQAl5gLtH7eJNrYSZHYnw1GIVgTXSQT5K7OEM_1aE.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/YuppTV.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/YuppTV.m3u"
   },
   {
     "title": "Sunnxt",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Sun_NXT_logo_small.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SunNxt.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/SunNxt.m3u"
   },
   {
     "title": "Samsung TV+",
