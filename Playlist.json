@@ -45,153 +45,18 @@
     "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SunNxt.m3u"
   },
   {
-    "title": "Pishow",
-    "imageUrl": "https://play-lh.googleusercontent.com/eOpDiVz0yhxE2UhJL8mTbh5HNnXykKWgbZSUWOl3af_uxzje0Nfr6nDiigRYTjhialcC",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Pishow.m3u"
-  },
-  {
-    "title": "Shoq",
-    "imageUrl": "https://play-lh.googleusercontent.com/kwKJ4mHrslg7-5Ki0JaYnl3M3VudZ_OWuKtLzTURbWW0WyyEsyAQtc2zcjyMirT-xw",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Shoq.m3u"
-  },
-  {
-    "title": "Sanskar Network",
-    "imageUrl": "https://app.sanskargroup.in/assets/website_assets/images/header-logo.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Sanskar_Network.m3u"
-  },
-  {
     "title": "Samsung TV+",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiN0NEjVeGxTfqon_c0DNk-PwJ6rR_1HnxQ&s",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Samsung_TV_Plus.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/Samsung_TV_Plus.m3u"
   },
   {
-    "title": "PTC Play",
-    "imageUrl": "https://m.media-amazon.com/images/I/61VPWLgvfBL.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/PTC_Play.m3u"
-  },
-  {
-    "title": "MeWatch",
-    "imageUrl": "https://play-lh.googleusercontent.com/l9V4Pt3K83FOYgp-jixR6IWcXvnJ7LnlYrT8K5gtLguf6a_KAD4H6wFm8wxnrETzgg",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/MeWatch.m3u"
-  },
-  {
-    "title": "Epicon",
+    "title": "vod zee5",
     "imageUrl": "",
-    "m3uLink": ""
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/VOD_Zee5.m3u"
   },
-  {
-    "title": "ETV Win",
+    {
+    "title": "vod aha",
     "imageUrl": "",
-    "m3uLink": ""
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/VOD_Aha.m3u"
   },
-  {
-    "title": "DistroTV",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "DangalPlay",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "Shemaroo",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "Tamil Local Channel",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "TarangPlus",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "Timesplay",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "Aha VOD",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "Astrogo VOD",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "ErosNow VOD",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "HBO VOD",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  },
-  {
-    "title": "",
-    "imageUrl": "",
-    "m3uLink": ""
-  }
 ]
