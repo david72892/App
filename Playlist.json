@@ -22,22 +22,17 @@
   {
     "title": "Sonyliv",
     "imageUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SonyLIV.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/SonyLIV.m3u"
   },
   {
     "title": "Sonyliv 2",
     "imageUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",
-    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/SonyLIV_2.m3u"
-  },
-  {
-    "title": "Airtel",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Airtel_logo-01.png",
-    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/artl.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/SonyLIV_2.m3u"
   },
   {
     "title": "Dish TV",
     "imageUrl": "https://trendlyne-media-mumbai-new.s3.amazonaws.com/profilepicture/335_profilepicture.png",
-    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/dishtv.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/DishTV.m3u"
   },
   {
     "title": "Yupp TV",
