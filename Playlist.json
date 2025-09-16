@@ -7,12 +7,12 @@
   {
     "title": "Jiotv+",
     "imageUrl": "https://iili.io/FHEDWQa.png",
-    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/jstar.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u"
   },
   {
     "title": "Zee5",
     "imageUrl": "https://akamaividz2.zee5.com/image/upload/frontend/branding/images/version-2/logo.png",
-    "m3uLink": "https://github.com/alex4528/m3u/raw/refs/heads/main/z5.m3u"
+    "m3uLink": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
   },
   {
     "title": "SonyLiv Events",
